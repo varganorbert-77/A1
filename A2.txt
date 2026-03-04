@@ -3,3 +3,5 @@ piros
 szürke
 kalapács
 véső
+fúró
+hegesztő
