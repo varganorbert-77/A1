@@ -3,3 +3,5 @@ sárga
 zöld
 zerge
 antilop
+varjú
+veréb
