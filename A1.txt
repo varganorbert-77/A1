@@ -3,3 +3,7 @@ sárga
 zöld
 zerge
 antilop
+kutya
+macska
+
+
